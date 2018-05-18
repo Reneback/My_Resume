@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Roboto');
+
+html, body{
+	height: 100%;
+	width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+.menu-title {
+
+	background-color: black;
+	height: 10%;
+	width: 100%;
+	position: fixed;
+	color: white;
+	top: 0;
+	
+
+}
+
+.menu-title img {
+
+	float: left;
+	left: 10px; 
+}
+
+nav {
+	float: right;
+	right: 15px;
+	width: 50%;
+	margin-right: 0;
+
+}
+.menu-title a {
+
+text-decoration: none;
+color: white;
+}
+
+nav ul li{
+	float: left;
+	color: rgb(5,5,5);
+	list-style-type: none;
+	padding: 15px;
+	top: 5px;
+}
+
+.row{
+	width: 100%;
+	height:100%;
+}
+
+.home {
+	
+}
